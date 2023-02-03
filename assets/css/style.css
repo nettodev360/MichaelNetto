@@ -1,0 +1,24 @@
+body {
+        font-family: 'Arial', sans-serif;
+        color: white;
+        background-color: #404427;
+      }
+      
+      .portfolio-container {
+        width: 90%;
+        margin: 0 auto;
+      }
+      
+      .portfolio-item {
+        width: 25%;
+        float: left;
+        margin: 0 10px;
+      }
+      
+      .portfolio-item img {
+        width: 100%;
+      }
+
+.jumbotron {
+  background-color: #63684A;
+}
